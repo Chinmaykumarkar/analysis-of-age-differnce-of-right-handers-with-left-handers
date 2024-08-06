@@ -1,1 +1,2 @@
 # analysis-of-age-differnce-of-right-handers-with-left-handers
+# can get the data from (https://gist.githubusercontent.com/mbonsma/8da0990b71ba9a09f7de395574e54df1/raw/aec88b30af87fad8d45da7e774223f91dad09e88/lh_data)
